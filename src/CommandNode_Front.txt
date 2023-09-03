@@ -1,0 +1,36 @@
+
+// install npx if not yet
+npm i -g npx
+
+npx create-react-app . --template typescript
+
+npm i -S antd
+# npm i -D @types/antd
+
+npm i
+
+npm i -S react-router-dom
+
+npm i -S axios
+
+npm i -D @types/axios
+
+npm i -S jsonwebtoken
+
+npm i -D @types/jsonwebtoken
+
+npm i -S react-if
+
+
+1:32
+
+# npm i -S buffer
+# npm i -S util
+# npm i -S stream-browserify
+# npm i -S crypto-browserify
+# npm i -S stream
+# npm i -S crypto
+
+
+-- To start the application
+npm run start

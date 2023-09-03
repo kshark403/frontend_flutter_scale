@@ -1,0 +1,15 @@
+.content-app {
+    max-width: 1000px;
+    /* width: 600px; */
+    margin: 0 auto;
+    padding: 30px;
+}
+
+.text-right {
+    text-align: right;
+}
+
+
+.no-margin {
+    margin: 0 !important;
+}
